@@ -1,1 +1,1 @@
-Random Qoute Generator
+Random Qoutes Generator
